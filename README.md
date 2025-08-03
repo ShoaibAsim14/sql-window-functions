@@ -18,5 +18,5 @@ Sample student scores with attributes like `MathScore` and `TotalScore`.
 - Demonstrated effective use of window functions for analytical reporting.
 
  📄 Document
-See `window functions(task4).docx` for full SQL code and output explanation.
+Click `https://1drv.ms/w/c/eae99655b1f2e855/Efw1W8kto5JJmOvtUbO1WowB_C2OolM7cJ9zaG6B0YdwZQ?e=0M8kRk` for full SQL code and output explanation.
 
